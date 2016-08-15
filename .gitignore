@@ -1,0 +1,5 @@
+.tox
+*.pyc
+template_korean.egg-info/
+db.sqlite3
+venv
