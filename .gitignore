@@ -3,3 +3,4 @@
 template_korean.egg-info/
 db.sqlite3
 venv
+.coverage

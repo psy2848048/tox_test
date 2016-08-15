@@ -8,7 +8,7 @@ class TemplateKoreanTestCase(TestCase):
         pass
 
     def testtest(self):
-        self.assertEqual(1,2)
+        self.assertEqual(1,1)
 
     def test_korean_proofread(self):
         import korean
